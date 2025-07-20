@@ -29,3 +29,5 @@ coverage/
 
 #api-key
 botclinica-yclg-9b8bd31401bb.json
+
+.gitignore
